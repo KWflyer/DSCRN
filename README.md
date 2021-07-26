@@ -1,7 +1,8 @@
-# CLAE:Representation Learning with Class Level Autoencoder
+# DSCRN: Deep Subclass Reconstruction Network
 The source code is for the following paper which will be available soon!
 
-Hui Yu, Kai Wang, Yan Li, Wu Zhao. Representation Learning with Class Level Autoencoder for Intelligent Fault Diagnosis, IEEE Signal Processing Letters, 2019.
+Hui Yu, Kai Wang, Yan Li, Mengfan He. Deep Subclass Reconstruction Network for Fault Diagnosis of Rotating Machinery
+under Various Operating Conditions,  Applied Soft Computing, 2021.
 
 If you find this paper is useful, please cite our paper in your research work. Thanks.
 
