@@ -1,3 +1,4 @@
 *.txt linguist-language=Matlab
 *.md linguist-language=Matlab
 *.rar linguist-language=Matlab
+*.tex linguist-language=Matlab
